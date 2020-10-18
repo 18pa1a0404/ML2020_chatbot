@@ -10,4 +10,5 @@
    A.Pradeep Naidu(18PA1A0404)- me
 ## youtube vedio link :
    https://youtu.be/XCYiG_0MUcU
-
+## Block Diagram:
+   [IMG_20201018_180436](https://user-images.githubusercontent.com/72607765/96371683-846aa600-1180-11eb-9aaf-92be9bb8d6a8.jpg)
